@@ -1,0 +1,350 @@
+
+
+@import url('https://fonts.google.com/share?selection.family=Calistoga');
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+    overflow-x: hidden;
+    
+}
+.header {
+    border-bottom: 0.052vw solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.042vw 2.083vw;
+    flex-direction: row;
+}
+.steam {
+    font-family: "Syne";
+    font-weight: 800;
+    font-size: 2vw;
+    text-align: left;
+    color: #1D221B;
+}
+.fullnav {
+    display: flex;
+    gap: 5.104vw;
+}
+.navbar {
+    font-family: "Cutive";
+    font-weight: 400;
+    font-size: 1.458vw;
+
+    color: #1D221B;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+main {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
+}
+.text{
+    text-align: center;
+    font-size: 6.25vw;
+    font-family: "Cutive";
+    font-weight: 400;
+    
+}
+.main-img {
+    width: 92vw;
+    height: auto;
+    border-radius: 0.072vw;
+}
+.card-holder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 28vw;
+}
+.feed{
+    display: flex;
+    align-items: center;
+    justify-content: space-between ;
+    flex-wrap: wrap;
+    width: 92vw;
+    margin-top: 4.166vw;
+}
+.card{
+    margin: 0.416vw 0vw;
+}
+.card-img{
+    width: 100%;
+    height: auto;
+}
+.card-text{
+    font-family: "Kumbh Sans", sans-serif;
+    font-size: 0.052vw;
+    color: #1D221B9E;
+}
+.card-heading{
+    font-weight: 500;
+    font-size: 0.052vw;
+    color: black;
+}
+body {
+    font-family: calistoga;
+    background-color:#E8F4E7;
+    margin: 0;
+}
+
+
+.container1 {
+    width: 100%;
+    height: 41.666vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.nav-buttons {
+    display: flex;
+    justify-content: space-evenly;
+    width: 15.625vw;
+    margin: 0 auto;
+}
+.nav-buttons button {
+    width: 2.083vw;
+    height: 2.083vw;
+    border: none;
+    border-radius: 0.260vw;
+    background-color:#DADACA66;
+    font-size: 0.833vw;
+    cursor: pointer;
+}
+
+
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 2.083vw;
+    padding-right: 2.083vw;
+    border-top: 0.052vw solid #1D221B;
+}
+.footer p {
+    font-family: "Cutive";
+    font-size: 1.458vw;
+    font-weight: 400;
+    color:#1D221B9E;
+}
+.foot-but p {
+    font-family: "Kumbh sans";
+    font-weight: 500;
+    font-size: 0.885vw;
+    width: 7.812vw;
+    height: 1.041vw;
+    padding: 0.625vw 1.25vw 0vw;
+    text-align: center;
+    border: 0.104vw solid #17340929;
+    border-radius: 0.52vw;
+}
+.artist-intro {
+    margin: 1.042vw auto;
+    text-align: center;
+    font-family: 'Cutive', serif;
+    color: #333;
+    background-color:#E8F4E7;
+    padding: 0.781vw;
+    border-radius: 0.52vw;
+}
+
+.intro-text {
+    font-size: 0.937vw;
+    font-weight: bold;
+    line-height: 1.5;
+}
+.art-in-motion{
+    font-weight: 400;
+    font-size: 3.333vw;
+    line-height: 3.54vw;
+    text-align: center;
+}
+.Explore{
+    font-size: 1.25vw;
+    font-weight: 400;
+    line-height: 1.66vw;
+    text-align: center;
+}
+
+
+.button-container {
+    text-align: center;
+}
+
+.custom-button {
+    background-color: #d1442e; 
+    color: white;
+    font-size: 0.833vw;
+    font-weight: bold;
+    border: 0.104vw solid #2e76b1; 
+    padding: 0.52vw 1.041vw;
+    cursor: pointer;
+    border-radius: 0.26vw;
+    position: relative;
+}
+
+
+
+
+.client{
+    color: #1D221B;
+    font-size: 1.302vw;
+    text-align: center;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+}
+.testimonials{
+    display: flex;
+    gap: 1.25vw;
+    margin:0vw 1.25vw;
+    border-bottom: 0.052vw solid white;
+    padding-bottom: 1.562vw;
+    color: #333;
+}
+.up img{
+    width: 2.5vw;
+    height: 2.5vw;
+    border-radius: 50%;
+}
+.up .naam{
+
+    font-family: "Archivo", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-weight: 800;
+    font-size: 0.78vw;
+    line-height: 1.041vw;
+    color: #333;
+}
+.up .post{
+    font-family: 'Courier New', Courier, monospace;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-weight: 400;
+    font-size: 0.7vw;
+    line-height: 1.041vw;
+    color: #1C221B;
+}
+.down{
+    font-family: "Archivo", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+    font-weight: 500;
+    font-size: 1.041vw;
+    line-height: 1.25vw;
+    color: #333;
+    border-left: 0.052vw solid rgba(255,255,255,0.16);
+    padding-left: 2.5vw;
+    margin-left: 1.25vw;
+}
+.outer-cover{
+    margin-top: 0.625vw;
+}
+.box{
+    border: 0.052vw solid black;
+    border-radius: 0.833vw;
+    padding: 1.25vw;
+
+}
+.up{
+    display: flex;
+
+}
+.up span{
+    padding-left: 0.208vw;
+}
+.cl1 p{
+    font-weight: 400;
+    font-size: 1.562vw;
+    line-height: 2.708vw;
+    text-align: center;
+    height: 10.833vh;
+    width: 46.875vw;
+    color: #333;
+}
+.cl1{
+    padding: 5vw;
+    display: flex;
+    justify-content: center;
+
+}
+.cl2 p{
+    font-weight: 0.104vw;
+    font-size: 1.25vw;
+    line-height: 1.666vw;
+    width: 33.75vw;
+    height: 10vw;
+    font-family: 'courier prime',serif;
+
+}
+.cl2{
+    padding: 2.5vw 0vw;
+    display: flex;
+    justify-content: end;
+}
+.cl3 .left p{
+    font-weight: 500;
+    font-size: 2vw;
+    line-height: 1.666vw;
+    font-family: calistoga;
+    width: 33.75vw;
+    text-align: left;
+    padding-left: 1.562vw;
+
+}
+.post{
+    color: #333;
+}
+
+.cl3 .right p{
+    font-weight: 400;
+    font-size: 1.041vw;
+    line-height: 1.25vw;
+    width: 15.625vw;
+    font-family: 'Courier prime',serif;
+
+
+}
+.cl3 .right{
+    display: flex;
+    font-family: 'Courier prime',serif;
+}
+.cl3{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Courier prime',serif;
+}
+.footer .footer1 {
+    color:#1C221B;
+    font-family:'calistoga',serif;
+    font-weight: 400;
+}
+.footer .footer2{
+    color:#1C221B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

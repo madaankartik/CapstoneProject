@@ -1,0 +1,277 @@
+@media (max-width:450px){
+  
+    .header { 
+        padding: 3vw 2.083vw; 
+    }
+    .steam {
+        font-family: "Syne";
+        font-weight: 800;
+        font-size: 2vw;
+        text-align: left;
+        color: #1D221B;
+    }
+    .navbar{
+        font-size: 2vw;
+    }
+    main {
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       flex-direction: column;
+    }
+    .text{
+        text-align: center;
+        font-size: 6.25vw;
+        font-family: "Cutive";
+        font-weight: 400;
+        
+    }
+     
+    .card-holder{ 
+        width: 100%;
+        
+    }
+    .feed{
+        display: flex;
+        align-items: center;
+        justify-content: space-between ;
+        flex-wrap: wrap;
+        width: 92vw;
+        margin-top: 4.166vw;
+    }
+    .card{
+        margin: 0.416vw 0vw;
+        padding-bottom: 2vw;
+    }
+    .card-img{
+        width: 100%;
+        height: auto;
+    }
+    .card-text{
+        font-family: "Kumbh Sans", sans-serif;
+        font-size: 0.052vw;
+        color: #1D221B9E;
+    }
+    .card-heading{
+        font-weight: 500;
+        font-size: 0.052vw;
+        color: black;
+    }
+    body {
+        font-family: calistoga;
+        background-color:#E8F4E7;
+        margin: 0;
+    }
+    
+    
+    .container1 {
+        width: 100%;
+        height: 41.666vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    
+    
+    .nav-buttons {
+        display: flex;
+        justify-content: space-evenly;
+        width: 15.625vw;
+        margin: 0 auto;
+    }
+    .nav-buttons button {
+        width: 2.083vw;
+        height: 2.083vw;
+        border: none;
+        border-radius: 0.260vw;
+        background-color:#DADACA66;
+        font-size: 0.833vw;
+        cursor: pointer;
+    }
+    
+    
+    
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-left: 2.083vw;
+        padding-right: 2.083vw;
+        border-top: 0.052vw solid #1D221B;
+    }
+    .footer p {
+        font-family: "Cutive";
+        font-size: 1.458vw;
+        font-weight: 400;
+        color:#1D221B9E;
+    }
+    .foot-but p {
+        font-family: "Kumbh sans";
+        font-weight: 500;
+        font-size: 0.885vw;
+        width: 7.812vw;
+        height: 1.041vw;
+        padding: 0.625vw 1.25vw 0vw;
+        text-align: center;
+        border: 0.104vw solid #17340929;
+        border-radius: 0.52vw;
+    }
+    .artist-intro {
+        margin: 1.042vw auto;
+        text-align: center;
+        font-family: 'Cutive', serif;
+        color: #333;
+        background-color:#E8F4E7;
+        padding: 0.781vw;
+        border-radius: 0.52vw;
+    }
+    
+    .intro-text {
+        font-size: 0.937vw;
+        font-weight: bold;
+        line-height: 1.5;
+    }
+    .art-in-motion{ 
+        font-size: 5.333vw; 
+        text-align: center;
+    }
+    
+    .Explore{
+        font-size: 2.25vw;
+        margin-top: -2vw;
+    }
+    
+     
+    .custom-button {
+        font-size: 2vw;
+        padding: 1vw 3vw;
+    }
+    .img-c{
+        margin-top: -9vw;
+    }
+    
+    
+     
+     
+    .testimonials{
+        display: flex;
+        gap: 1.25vw;
+        margin:0vw 1.25vw;
+        border-bottom: 0.052vw solid white;
+        padding-bottom: 1.562vw;
+        color: #333;
+        overflow-x: scroll;
+    }
+    .up img{
+        width: 2.5vw;
+        height: 2.5vw;
+        border-radius: 50%;
+    }
+    .up .naam{
+    
+        font-family: "Archivo", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+        font-weight: 800;
+        font-size: 1.78vw;
+        line-height: 1.041vw;
+        color: #333;
+        padding-bottom: 3vw;
+    }
+    .up .post{
+        font-family: "Archivo", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+        font-weight: 500;
+        font-size: 1.78vw;
+        line-height: 1.041vw;
+       color: #333;
+    }
+    .down{
+        font-family: "Archivo", serif;
+      font-optical-sizing: auto;
+      font-weight: weight;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+        font-weight: 500;
+        font-size: 2.041vw;
+        line-height: 2.25vw;
+        color: #333;
+        border-left: 0.052vw solid rgba(255,255,255,0.16);
+        padding-left: 2.5vw;
+        margin-left: 1.25vw;
+    }
+    .outer-cover{
+        margin-top: 0.625vw;
+    }
+    .box{
+        border: 0.052vw solid white;
+        border-radius: 0.833vw;
+        padding: 1.25vw;
+        
+    }
+    .up{
+        display: flex;
+    
+    }
+    .up span{
+        padding-left: 0.208vw;
+    }
+    .cl1 p{ 
+        font-size: 4.562vw;
+        line-height: 4.708vw;
+         
+        width: 76.875vw; 
+    }
+    .cl1{
+        padding: 5vw;
+        display: flex;
+        justify-content: center;
+    
+    }
+    .cl2 p{
+       
+        font-size: 2.25vw;
+        line-height: 3.666vw;
+        width: 53.75vw;
+        
+    
+    }
+     
+    .cl3 .left p{ 
+        font-size: 3.458vw; 
+        text-align: left;
+        padding-left: 2.562vw;
+    
+    }
+    .post{
+        color: #333;
+    }
+    
+    .cl3 .right p{
+        font-weight: 400;
+        font-size: 2vw;
+        line-height: 1.25vw;
+        width: 28.625vw;
+        color: #1D221B;
+    
+    
+    }
+    .cl3 .right{
+        display: flex;
+    }
+    .cl3{
+        margin-top: 4vw; 
+    }
+    
+    
+    
+    }
